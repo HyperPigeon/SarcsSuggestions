@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BPB",
+    "BBB"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone_meal"
+    },
+    "P": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "result": {
+    "item": "sarcs_suggestions:herbicide",
+    "count": 8
+  }
+}
+

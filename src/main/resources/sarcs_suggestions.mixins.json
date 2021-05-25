@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "package": "net.hyper_pigeon.sarcs_suggestions.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "BatEntityMixin",
+    "CowEntityMixin",
+    "ItemEntityMixin",
+    "ItemsMixin",
+    "LlamaEntityMixin",
+    "PigEntityMixin",
+    "SheepEntityMixin",
+    "WanderingTraderEntityMixin",
+    "WeightedPressurePlateBlockMixin"
+  ],
+  "client": [
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

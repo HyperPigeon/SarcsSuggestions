@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "sarcs_suggestions",
+  "version": "1.0.0",
+  
+  "name": "Sarcs Suggestions",
+  "description": "A mod inspired by SimplySarc that gives some useless features in Minecraft actual fuctionality! ",
+  "authors": [
+    "Hyper_Pigeon"
+  ],
+  
+  "icon": "assets/sarcs_suggestions/sarc's_suggestions.png",
+  "license": "MIT",
+  
+  "environment": "*",
+  
+  "entrypoints": {
+    "main": [
+      "net.hyper_pigeon.sarcs_suggestions.SarcsSuggestions"
+    ]
+  },
+  
+  "requires": {
+    "fabricloader": ">=0.4.0"
+  },
+  
+  "mixins": [
+    "sarcs_suggestions.mixins.json"
+  ]
+}
