@@ -1,4 +1,4 @@
-# SarcsSuggestions
+# Sarc's Suggestions
 Sarc's Suggestions is based on a video made by SimplySarc that comes up with uses for "useless" features in Minecraft such as the Wandering Trader, Llamas, Bats, Poisonous Potatoes, and more!
 
 [![](http://img.youtube.com/vi/2nF8IQci5us/0.jpg)](https://www.youtube.com/watch?v=2nF8IQci5us)
